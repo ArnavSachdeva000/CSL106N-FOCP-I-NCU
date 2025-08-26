@@ -1,4 +1,4 @@
-// This code is for printing "Hello World" with \n and \t
+// This code is for understanding the usage of next line escape sequence in C programming language.
 
 #include<stdio.h>
 
